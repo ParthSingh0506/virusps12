@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @virusps12(Parth Singh)
+- 👋 Hi, I’m @ParthSingh0506(Parth Singh)
 - 👀 I’m interested in Machine Learning,Deep Learning
 - 🌱 I’m currently learning Dockers
 - 💞️ I’m looking to collaborate on ...
